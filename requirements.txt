@@ -1,0 +1,8 @@
+numpy
+glob
+tqdm
+os
+argparse
+librosa
+soundfile
+torch
